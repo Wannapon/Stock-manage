@@ -69,3 +69,4 @@ E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\netcoreapp3.1\Stock.Manage.Web.Ap
 E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\netcoreapp3.1\Stock.Manage.Web.Api.dll
 E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\netcoreapp3.1\Stock.Manage.Web.Api.pdb
 E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\netcoreapp3.1\Stock.Manage.Web.Api.genruntimeconfig.cache
+E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\netcoreapp3.1\Stock.Manage.Web.Api.MvcApplicationPartsAssemblyInfo.cs
