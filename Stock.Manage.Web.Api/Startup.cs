@@ -46,13 +46,9 @@ namespace Stock.Manage.Web.Api
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Stock.Manage.Web.Api v1"));
             }
-
             app.UseHttpsRedirection();
-
             app.UseRouting();
-
             app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
