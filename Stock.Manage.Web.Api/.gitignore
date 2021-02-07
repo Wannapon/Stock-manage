@@ -360,3 +360,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+git rm --cached *.suo
+git commit -m "Delete suo file from repository"
