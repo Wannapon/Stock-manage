@@ -37,6 +37,7 @@ namespace Stock.Manage.Web.Api.Controllers
                 // ถ้าต้องการลองเข้า catch - Un comment นี้
                 //throw new Exception();
 
+
                 return Ok(response);
             }
             catch (Exception)
