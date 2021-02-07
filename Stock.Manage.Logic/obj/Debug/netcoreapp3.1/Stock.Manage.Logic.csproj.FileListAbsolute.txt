@@ -1,0 +1,14 @@
+E:\Stock-manage\Stock.Manage.Logic\obj\Debug\netcoreapp3.1\Stock.Manage.Logic.csprojAssemblyReference.cache
+E:\Stock-manage\Stock.Manage.Logic\obj\Debug\netcoreapp3.1\Stock.Manage.Logic.AssemblyInfoInputs.cache
+E:\Stock-manage\Stock.Manage.Logic\obj\Debug\netcoreapp3.1\Stock.Manage.Logic.AssemblyInfo.cs
+E:\Stock-manage\Stock.Manage.Logic\obj\Debug\netcoreapp3.1\Stock.Manage.Logic.csproj.CoreCompileInputs.cache
+E:\Stock-manage\Stock.Manage.Logic\bin\Debug\netcoreapp3.1\Stock.Manage.Logic.deps.json
+E:\Stock-manage\Stock.Manage.Logic\bin\Debug\netcoreapp3.1\Stock.Manage.Logic.dll
+E:\Stock-manage\Stock.Manage.Logic\bin\Debug\netcoreapp3.1\Stock.Manage.Logic.pdb
+E:\Stock-manage\Stock.Manage.Logic\bin\Debug\netcoreapp3.1\Stock.Manage.Common.dll
+E:\Stock-manage\Stock.Manage.Logic\bin\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.dll
+E:\Stock-manage\Stock.Manage.Logic\bin\Debug\netcoreapp3.1\Stock.Manage.Common.pdb
+E:\Stock-manage\Stock.Manage.Logic\bin\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.pdb
+E:\Stock-manage\Stock.Manage.Logic\obj\Debug\netcoreapp3.1\Stock.Manage.Logic.csproj.CopyComplete
+E:\Stock-manage\Stock.Manage.Logic\obj\Debug\netcoreapp3.1\Stock.Manage.Logic.dll
+E:\Stock-manage\Stock.Manage.Logic\obj\Debug\netcoreapp3.1\Stock.Manage.Logic.pdb

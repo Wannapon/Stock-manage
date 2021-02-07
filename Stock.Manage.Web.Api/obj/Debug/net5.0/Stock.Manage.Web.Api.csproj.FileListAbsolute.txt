@@ -1,0 +1,6 @@
+E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\net5.0\Stock.Manage.Web.Api.csprojAssemblyReference.cache
+E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\net5.0\Stock.Manage.Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\net5.0\Stock.Manage.Web.Api.AssemblyInfoInputs.cache
+E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\net5.0\Stock.Manage.Web.Api.AssemblyInfo.cs
+E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\net5.0\Stock.Manage.Web.Api.csproj.CoreCompileInputs.cache
+E:\Stock-manage\Stock.Manage.Web.Api\obj\Debug\net5.0\Stock.Manage.Web.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,15 @@
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.csprojAssemblyReference.cache
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.AssemblyInfoInputs.cache
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.AssemblyInfo.cs
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.csproj.CoreCompileInputs.cache
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\bin\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.deps.json
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\bin\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.runtimeconfig.json
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\bin\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.runtimeconfig.dev.json
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\bin\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.dll
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\bin\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.pdb
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\bin\Debug\netcoreapp3.1\Stock.Manage.Common.dll
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\bin\Debug\netcoreapp3.1\Stock.Manage.Common.pdb
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.csproj.CopyComplete
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.dll
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.pdb
+E:\Stock-manage\Stock.Manage.DataAccess.EntityFramewoek\obj\Debug\netcoreapp3.1\Stock.Manage.DataAccess.EntityFramewoek.genruntimeconfig.cache

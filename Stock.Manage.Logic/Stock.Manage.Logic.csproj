@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dto\Response\" />
+    <Folder Include="Dto\Request\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stock.Manage.Common\Stock.Manage.Common.csproj" />
+    <ProjectReference Include="..\Stock.Manage.DataAccess.EntityFramewoek\Stock.Manage.DataAccess.EntityFramewoek.csproj" />
+  </ItemGroup>
+
+</Project>

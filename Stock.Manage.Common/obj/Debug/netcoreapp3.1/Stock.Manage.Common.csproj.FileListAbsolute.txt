@@ -1,0 +1,9 @@
+E:\Stock-manage\Stock.Manage.Common\obj\Debug\netcoreapp3.1\Stock.Manage.Common.csprojAssemblyReference.cache
+E:\Stock-manage\Stock.Manage.Common\obj\Debug\netcoreapp3.1\Stock.Manage.Common.AssemblyInfoInputs.cache
+E:\Stock-manage\Stock.Manage.Common\obj\Debug\netcoreapp3.1\Stock.Manage.Common.AssemblyInfo.cs
+E:\Stock-manage\Stock.Manage.Common\obj\Debug\netcoreapp3.1\Stock.Manage.Common.csproj.CoreCompileInputs.cache
+E:\Stock-manage\Stock.Manage.Common\bin\Debug\netcoreapp3.1\Stock.Manage.Common.deps.json
+E:\Stock-manage\Stock.Manage.Common\bin\Debug\netcoreapp3.1\Stock.Manage.Common.dll
+E:\Stock-manage\Stock.Manage.Common\bin\Debug\netcoreapp3.1\Stock.Manage.Common.pdb
+E:\Stock-manage\Stock.Manage.Common\obj\Debug\netcoreapp3.1\Stock.Manage.Common.dll
+E:\Stock-manage\Stock.Manage.Common\obj\Debug\netcoreapp3.1\Stock.Manage.Common.pdb
