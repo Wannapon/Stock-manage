@@ -34,7 +34,7 @@ namespace Stock.Manage.Web.Api.Controllers
                     response.Data = model;
                 }
 
-                // ถ้าต้องการลองเข้า catch - Un comment นี้
+                // ถ้าต้องการลอง catch - Un comment นี้
                 //throw new Exception();
 
                 return Ok(response);
